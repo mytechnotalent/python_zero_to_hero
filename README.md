@@ -841,6 +841,9 @@ print("NumPy ready! Let's build a neural network!")
     NumPy ready! Let's build a neural network!
 
 
+## Neural Network From Scratch
+[ARTICLE](https://medium.com/@kevin.mytechnotalent/simple-neural-network-from-scratch-e01a5c9b29a8)
+
 
 ```python
 def sigmoid(x):
@@ -920,7 +923,7 @@ print(f"sigmoid(10)  = {sigmoid(10):.6f}  (near 1)")
 
 
     
-![png](README_files/python_zero_to_hero_32_0.png)
+![png](README_files/python_zero_to_hero_33_0.png)
     
 
 
